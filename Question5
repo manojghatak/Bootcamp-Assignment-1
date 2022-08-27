@@ -1,8 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    
-    printf("iNuron");
+
+    int a = printf("iNeuron");
+    printf("%d",a);
     printf("\n");
     return 0;
 }
+
