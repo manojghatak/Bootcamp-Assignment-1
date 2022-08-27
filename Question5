@@ -1,12 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    int r;
-    float rad;
-    printf("Enter Radius of a circle ");
-    scanf("%d",&r);
-    rad = 3.145*(r*r);
-    printf("Area of the circle is %f having the radius %d", rad,r);
+    
+    printf("iNuron");
     printf("\n");
     return 0;
 }
